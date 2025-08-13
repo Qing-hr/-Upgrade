@@ -1,4 +1,3 @@
-```vue
 <template>
   <!-- 主容器 -->
   <div class="voice-recorder">
@@ -259,4 +258,3 @@ export default {
   text-align: center;
 }
 </style>
-```
